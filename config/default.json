@@ -1,0 +1,5 @@
+{
+    "serverPort" : 5000,
+    "dbUrl" : "mongodb+srv://Rustem:bekrustemdog@frompointtopoint.zmemfbn.mongodb.net/?retryWrites=true&w=majority",
+    "secret" : "SECRET_KEY_RANDOM"
+}
